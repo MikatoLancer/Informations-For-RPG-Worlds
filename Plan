@@ -1,0 +1,158 @@
+// Plan Generate 5/17/2017
+// Created Time Around 4:00 PM
+
+// Copyrights 2017  @RobertSteins
+
+Plan
+
+Desc:
+ This Plan Is A Plan For The Following Information :
+  - class
+  - core
+  - events
+  - items
+  - job
+  - map
+  - mob
+  - npc
+  - skills
+  - enchantments
+  - effects
+  - pets
+ Any New Information Will Be Added.
+
+
+
+.status
+  - class              - Incomplete - status : 0.14/100
+  - core               - Incomplete - status : 0/100
+  - events             - Incomplete - status : 0/100
+  - items              - Incomplete - status : 0/100
+  - job                - Incomplete - status : 0/100
+  - map                - Incomplete - status : 0/100
+  - mob                - Incomplete - status : 0/100
+  - npc                - Incomplete - status : 0/100
+  - skills             - Incomplete - status : 0/100
+  - enchantments       - Incomplete - status : 0/100
+  - effects            - Incomplete - status : 0/100
+  - pets               - Incomplete - status : 0/100
+
+
+.schedule
+Will Be Repeated For 1/3 Information Every Desc Display.
+Will BE Updated When I Have Time :)
+
+
+ 1/3 - class
+ 1/3 - core
+ 1/3 - events
+ 1/3 - items
+ 1/3 - job
+ 1/3 - map
+ 1/3 - mob
+ 1/3 - npc
+ 1/3 - skills
+ 1/3 - enchantments
+ 1/3 - effects
+ 1/3 - pets
+
+
+
+.incoming Information
+ Maybe <<-- MAYBE!! Will Be ADDED STUFF
+
+ - magic (magic, there is a case where skills and magic are seperated.)
+ - stats (more information about status : lvl,hp,mp,etc)
+ - blessing (blessing!!! gods?? demons?? monsters?? dragons?? [who knows @.@])
+ - boss (Boss!! YES!! Every RPG Must Have A Boss!! Eg: DemonLords,DemonKing,Dragon,EvilGod,Devils,ETC)
+ - dungeon (more inforamtion about dungeon [LOLLLLLLL])
+ - quest (what is a rpg that doesn't have QUEST!!!!)
+ - guild (More Information about Guild Eg:Ranks,Priviledge,ETC)
+ - chemisty & physics [magic+rpg world] (Maybe Some Messed Up World's Law Into Magic Foundation??)
+ - plants&animals (Plants!!! Animals!!!)
+ - races (Humans?? Or Else??)
+
+
+
+
+
+
+
+
+
+----
+.Others
+//Trivials Things.
+
+
+.class
+
+ Class Can Give You To Use Skills , However Job Is Give You A Priviledge.
+
+ Each Class Can Be Obtained.
+
+ There Are Like This Class Array: <Main Class>, <Sub Class>, <Minor Class>, <ETC(How Many You Want)>
+
+ Each Of This Would Not Affect Others Class... However!! Player Can Be Creativity Like Included Magic(OPPS SPOILER) With Swordmanships.
+
+ But!! It's Not Such Easy To Keep Level Up And Obtain Skills , Because Due To Level And Experience.
+
+ For Example: You Lvl is 10, and your main class is magician, you want to have the magician lvl 10 Skills but at the same time you want your sub class level 10 skills < BUT YOU CANT!! YOU CAN ONLY LVL UP YOUR CLASS IF YOU CHOOSE TO LEVEL UP THE CLASS>
+ if you think it's complicated??
+
+  then for easy guy.
+   you lvl up 1 level, and you can choose to level up which class you want.HOWEVER only once per level up.
+   SO Basically, if you level is 100, but you can't level up other class due to exp is hard to gain.
+//Why?? To Make Sure This Is Not Abused By Player LOL
+
+
+.core
+
+ Core. The Core Is Where The Main Task Operating.
+ Explaination: It's More Like A Server With Client.<WHUD??!! LOL You Only Need Some Basic Graps of This -.- >
+ Core Is Handling Almost All The Task, Like Managing The class,events,items,job,map,mob,npc,skills,enchantments,effects,pets,etc.
+ 
+
+
+.events
+
+
+
+.items
+
+
+.job
+
+
+
+.map
+
+
+
+.mob
+
+
+
+
+.npc
+
+
+
+
+
+.skills
+
+
+
+
+
+.enchantments
+
+
+
+.effects
+
+
+
+
+.pets

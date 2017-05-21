@@ -22,7 +22,7 @@
 # Credits:
 -  Me
 
-- You Can See The Current [Plan](/dd/plan).
+- You Can See The Current [Plan]https://github.com/MikatoLancer/Informations-For-RPG-Worlds/plan).
 
 
 # Any Collaborators: 

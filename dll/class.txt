@@ -1,0 +1,76 @@
+. Copyrights 2017 @RobertSteins
+
+We will Start For The Most Beginner Class.
+Take Note!!
+Class And Job Is Two Different Things.
+Best Regards.
+ 
+ Class Can Give You To Use Skills , However Job Is Give You A Priviledge.
+ Each Class Can Be Obtained.
+ There Are Like This Class Array: <Main Class>, <Sub Class>, <Minor Class>, <ETC(How Many You Want)>
+ Each Of This Would Not Affect Others Class... However!! Player Can Be Creativity Like Included Magic(OPPS SPOILER) With Swordmanships.
+ But!! It's Not Such Easy To Keep Level Up And Obtain Skills , Because Due To Level And Experience.
+ For Example: You Lvl is 10, and your main class is magician, you want to have the magician lvl 10 Skills but at the same time you want your sub class level 10 skills < BUT YOU CANT!! YOU CAN ONLY LVL UP YOUR CLASS IF YOU CHOOSE TO LEVEL UP THE CLASS>
+ if you think it's complicated??
+  then for easy guy.
+   you lvl up 1 level, and you can choose to level up which class you want.HOWEVER only once per level up.
+   SO Basically, if you level is 100, but you can't level up other class due to exp is hard to gain.
+//Why?? To Make Sure This Is Not Abused By Player LOL
+
+
+Details:
+ - Beginner (Done)
+ - Warrior (Done)
+ - Knights
+ - Swordmanships
+ - Dark Knights
+ - Page
+ - Samurai
+ - Archer (Done)
+ - Sniper
+ - Bowman
+ - Magician
+ - SwordMagician
+ - Sorcerer
+ - Thief
+ - Assassin
+ - Rogue
+ - Pirate
+ - Ninja
+ - 
+
+
+
+
+
+
+
+Class: Beginner
+ Rarity: Easy/Common
+ Desc: Beginner Class.It's A Class That For A Beginner/New Player To Graps The Foundational Class System.Beginner Class Is For the Player Can Easily Learn The Class's Skills And Use It.
+ Player Can Only Get/Obtain The Major/Main Class And Others After He/She Gain Lv. 10 In Beginner Class.
+ Max.Level: Infinite < Maybe There Have Some Secret Why This Is Infinite Level??!! >
+ Skills: At The skills section.
+ How Many Skills Available: I DON'T KNOW (LOL)
+
+
+Class: Warrior
+ Rarity: Easy/Common
+ Desc: Warrior Class.Available When The Player Reach Lv.10 In Beginner Class And Complete A Specific Quest For Warrior Class Request.Warrior Class Is Mostly Focused On Strenghts And Power.Warrior Class Is Good With Sword,Axe,Sheild,Etc.
+ Max.Level: Infinite < LOL >
+ Skills: At The skills section.
+ How Many Skills Available: I Don't Know
+
+
+Class: Archer
+ Rarity: Easy/Common
+ Desc: Archer Class.Available When The Player Reach Lv.10 In Beginner Class And Complete A Specific Quest For Archer Class Request.Archer Class Is Mostly Focused On Hit And Speed.Archer Class Is Good With Bow,Two-Handed Bow,Crossbow,Etc.
+
+
+Class: Magician
+ Rarity: Easy/Common
+ Desc: 
+
+
+
+
